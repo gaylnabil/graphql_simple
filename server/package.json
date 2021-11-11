@@ -1,0 +1,18 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start_nga_script": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "Nabil GAYL",
+    "license": "ISC",
+    "dependencies": {
+        "apollo-server": "^3.5.0",
+        "graphql": "^15.7.2",
+        "uuid": "^8.3.2",
+        "uuid-int": "^3.1.0"
+    }
+}
